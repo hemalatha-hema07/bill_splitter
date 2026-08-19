@@ -25,3 +25,4 @@ else:
     print(f"Total bill: ₹{total_bill:.2f}")
     print(f"People: {people}")
     print(f"Each person pays: ₹{amount_per_person:.2f}")
+    print("------------------------")
