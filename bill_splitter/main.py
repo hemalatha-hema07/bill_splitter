@@ -27,3 +27,4 @@ else:
     print(f"Each person pays: ₹{amount_per_person:.2f}")
     print("------------------------")
     print("Thank you for using the Bill Splitting Calculator!")
+    print("Have a great day!")
